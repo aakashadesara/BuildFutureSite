@@ -174,6 +174,14 @@ button > .hamburger-icon{
   justify-content: center;
 }
 
+.landing-sponsored-text {
+  display: flex;
+  flex-direction: row;
+  width: 670px;
+  margin: auto;
+  justify-content: center;
+}
+
 .landing-page-header {
   display: inline-block;
   width: 360px;
@@ -216,6 +224,7 @@ button > .hamburger-icon{
   background-color: #4e77f7;
   border-radius: 4px;
   color: white;
+  cursor: pointer;
 }
 
 /* ---------- ABOUT PAGE ---------- */
@@ -228,6 +237,11 @@ button > .hamburger-icon{
 
 #about-section {
   width: 100%;
+}
+
+#sponsors-section {
+  width: 100%;
+  margin-top: 40px;
 }
 
 #press-section {
@@ -251,19 +265,21 @@ button > .hamburger-icon{
 }
 
 #thehouse-img {
-  width: 4.5vw;
+  margin-top: -5px;
+  margin-bottom: -5px;
+  height: 130px;
 }
 
 #bearfounders-img {
-  height: 3vw;
+  height: 50px;
 }
 
 #citrisfoundry-img {
-  height: 4.5vw;
+  height: 72px;
 }
 
 #freev-img {
-  height: 5.5vw;
+  height: 100px;
 }
 
 #berkeleyeng-img {
@@ -396,10 +412,38 @@ button > .hamburger-icon{
   background-position: -10px -10px;
 }
 
+#cameron-baradar-img {
+  background-image: url("../assets/cameron-baradar.jpg");
+  background-repeat: no-repeat;
+  background-size: 170%;
+  background-position: -150px;
+}
+
+#ryan-peterson-img {
+  background-image: url("../assets/ryan-peterson.jpg");
+  background-repeat: no-repeat;
+  background-size: 165%;
+  background-position: -80px;
+}
+
 #elizabeth-iorns-img {
   background-image: url("../assets/elizabeth-iorns.jpg");
   background-repeat: no-repeat;
   background-size: 135%;
+  background-position: center;
+}
+
+#matthew-prince-img {
+  background-image: url("../assets/matthew-prince.jpg");
+  background-repeat: no-repeat;
+  background-size: 195%;
+  background-position: -120px 0px;
+}
+
+#patrick-lee-img {
+  background-image: url("../assets/patrick-lee.png");
+  background-repeat: no-repeat;
+  background-size: 115%;
   background-position: center;
 }
 
@@ -408,6 +452,20 @@ button > .hamburger-icon{
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
+}
+
+#pejman-nozad-img {
+  background-image: url("../assets/pejman-nozad.png");
+  background-repeat: no-repeat;
+  background-size: 200%;
+  background-position: -250px;
+}
+
+#nagraj-kashyap-img {
+  background-image: url("../assets/nagraj-kashyap.jpg");
+  background-repeat: no-repeat;
+  background-size: 170%;
+  background-position: -10px;
 }
 
 #chad-rigetti-img {
@@ -422,6 +480,13 @@ button > .hamburger-icon{
   background-repeat: no-repeat;
   background-size: 125%;
   background-position: center;
+}
+
+#andrew-kortina-img {
+  background-image: url("../assets/andrew-kortina.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 0px 0px;
 }
 
 /* ---------- ASSIGNMENTS PAGE ---------- */
@@ -552,6 +617,27 @@ button > .hamburger-icon{
 
 #parker-img {
   background-image: url("../assets/parker.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+}
+
+#maitri-img {
+  background-image: url("../assets/maitri.jpg");
+  background-repeat: no-repeat;
+  background-size: 140%;
+  background-position: -100px;
+}
+
+#daniel-img {
+  background-image: url("../assets/daniel.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+}
+
+#aakash-img {
+  background-image: url("../assets/aakash.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
