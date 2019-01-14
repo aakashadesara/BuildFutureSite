@@ -714,3 +714,10 @@ button > .hamburger-icon{
     background-size: 100%;
     background-position: center;
 }
+
+#george-mathew-img {
+    background-image: url("../assets/george-mathew.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
