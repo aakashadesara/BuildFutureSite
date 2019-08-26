@@ -565,6 +565,20 @@ button>.hamburger-icon {
 
 /* ----- speakers images --- */
 
+#tina-sharkey-img {
+    background-image: url("../assets/tina-sharkey.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+#mallika-chawla-img {
+    background-image: url("../assets/mallika-chawla.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
 #francesco-wiedemann-img {
     background-image: url("../assets/francesco-wiedemann.jpg");
     background-repeat: no-repeat;
